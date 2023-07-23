@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am a PhD student in Psychological Methods with a background in Economics and Psychology. In my methodological work, I am interested in Time Series Analysis, Network Science, and Bayesian Statistics. I like to apply these methods to learn more about depression and ways in which passive sensor data can help us to better understand mental disorders.
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
 <!--
 
 - 🔭 I’m currently working on ...
