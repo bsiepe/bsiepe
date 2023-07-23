@@ -1,9 +1,9 @@
 ### Hi there 👋
 I am a PhD student in Psychological Methods with a background in Economics and Psychology. In my methodological work, I am interested in Time Series Analysis, Network Science, and Bayesian Statistics. I like to apply these methods to learn more about depression and ways in which passive sensor data can help us to better understand mental disorders.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bsiepe&theme=blue-green)
-<!--
 
+<!--
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bsiepe&theme=blue-green)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
