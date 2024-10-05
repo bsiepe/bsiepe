@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a PhD student in Psychological Methods with a background in Economics and Psychology. In my methodological work, I am interested in Time Series, Simulation Studies, and Networks. 
+I am a PhD student in Psychological Methods with a background in economics and psychology. In my methodological work, I am interested in time series, simulation studies, and networks. 
 I like to apply these methods to learn more about how experience sampling and passive sensor data can help us better understand and predict mental disorders.
 
 
