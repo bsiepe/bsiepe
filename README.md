@@ -1,6 +1,6 @@
-### Hi there 👋
-I am a PhD student in Psychological Methods with a background in economics and psychology. In my methodological work, I am interested in time series, simulation studies, and open science. 
-I like to apply these methods to learn more about how experience sampling and passive sensor data can help us better understand and predict mental disorders.
+### Hi 👋
+I am a Doctoral student in Psychological Methods. 
+My research focuses on three areas: metascience of methodological research (particularly simulation studies), time series models for psychological time series, and applied experience sampling research. I’m interested in understanding how we can make methodological research more robust and transparent, and how we can better model intensive longitudinal data.
 
 I maintain [openESM](https://openesmdata.org), an open-source database of openly available experience sampling data. You can find all code for openESM on its [project page](https://github.com/openesm-project). 
 <!--
