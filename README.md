@@ -1,8 +1,15 @@
 ### Hi 👋
-I am a Doctoral student in Psychological Methods. 
+I am a postdoctoral researcher in Psychological Methods at Philipps-Universität Marburg. 
 My research focuses on three areas: metascience of methodological research (particularly simulation studies), time series models for psychological time series, and applied experience sampling research. I’m interested in understanding how we can make methodological research more robust and transparent, and how we can better model intensive longitudinal data.
 
-I maintain [openESM](https://openesmdata.org), an open-source database of openly available experience sampling data. You can find all code for openESM on its [project page](https://github.com/openesm-project). 
+**Projects I maintain and work on:**
+- [openESM](https://openesmdata.org): An open-source database of openly available experience sampling data. You can find all code for openESM and its R and Python packages on its [project page](https://github.com/openesm-project). 
+- [tsnet](https://github.com/bsiepe/tsnet): Estimating, comparing, and visualizing dynamic network models using Bayesian estimation.
+- [VARcheck](https://github.com/bsiepe/VARcheck): Model-agnostic visual diagnostics for vector autoregressive (VAR) models.
+- [ADEMP-PreReg](https://github.com/bsiepe/ADEMP-PreReg): Preregistration template for Monte Carlo simulation studies.
+
+
+
 <!--
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bsiepe&theme=blue-green)
 - 🔭 I’m currently working on ...
